@@ -22,7 +22,7 @@ project/
 │   ├── dish.csv
 │   ├── ingredients.csv
 │   └── processed/
-│       └── dish_df_processed.csv
+│       └── dish_processed.csv
 │
 ├── notebooks/
 │   └── project.ipynb
